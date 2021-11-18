@@ -24,8 +24,6 @@ inQuiry can be extended for adaptive tests, gamified quizzes, rubric-driven asse
 
 Similar to various [Sunbird](https://sunbird.org) building blocks, this is also open sourced under MIT license and you are free to adopt for your purposes. We strongly encourage you to contribute back, participate in the community to help improve this project.&#x20;
 
-****
-
 ### **Adopters**
 
 DIKSHA

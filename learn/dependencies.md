@@ -8,9 +8,23 @@ Sunbird QuML (Question Markup Language) is a specification for creating, renderi
 
 This is used for the question set editor, question and question set services and the asset category service(taxonomy service) to define the primary category of question and question set objects.
 
+| Services         | APIs                    | Description |
+| ---------------- | ----------------------- | ----------- |
+| Taxonomy service | Framework API           |             |
+|                  | Channel API             |             |
+|                  | Category Definition API |             |
+| DIAL service     | DIAL Code APIs          |             |
+| Search Service   | Search API              |             |
+
 #### Sunbird Obsrv <a href="sunbird-obsrv" id="sunbird-obsrv"></a>
 
 Only the telemetry service and data pipeline of Sunbird Obsrv is used for generating session summaries and question response related data products.
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
 #### Sunbird Telemetry <a href="sunbird-telemetry" id="sunbird-telemetry"></a>
 

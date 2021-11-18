@@ -1,8 +1,8 @@
 # Components
 
-### Question and question set service
+### Question and Question set service
 
-Question and Question Set Service is a micro-service to manage the lifecycle and workflows of creation and consumption of question & question set objects.&#x20;
+Question and Question set service is a micro-service which provides APIs to manage the lifecycle and workflows of creation and consumption of question & question set objects.
 
 We use assessment APIs from Sunbird Knowlg for this purpose. (It will be decoupled and moved as part of inQuiry.)
 
@@ -10,7 +10,7 @@ We use assessment APIs from Sunbird Knowlg for this purpose. (It will be decoupl
 
 ### Question set editor (coming soon)
 
-Question set editor is used to create a question set, configure its behaviour, and add/create questions in the question set.
+Question set editor is used to create a question set, configure its behaviour, and add/create questions in the question set. This editor is built in such a way that it is embeddable and extendable.
 
 Today it leverages collection editor from Sunbird Knowlg for this purpose.
 

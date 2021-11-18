@@ -6,7 +6,7 @@ Question and Question Set Service is a micro-service to manage the lifecycle and
 
 We use assessment APIs from Sunbird Knowlg for this purpose. (It will be decoupled and moved as part of inQuiry.)
 
-> [Link to ](https://github.com/project-sunbird/knowledge-platform)[the source code](https://github.com/Sunbird-Ed/sunbird-collection-editor)
+> [Link to the source code](https://github.com/project-sunbird/knowledge-platform)
 
 ### Question set editor (coming soon)
 

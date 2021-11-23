@@ -4,6 +4,8 @@
 
 ## LEARN
 
+* [Use Cases](learn/use-cases.md)
+* [Features](learn/features.md)
 * [Components](learn/components.md)
 * [Dependencies](learn/dependencies.md)
 

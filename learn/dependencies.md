@@ -34,16 +34,6 @@ List of Services and APIs used from Sunbird Knowlg.
 |                   | collection/v3/dialcode/link        |             |
 | Search Service    | composite/v3/search                |             |
 
-List of players used from Sunbird Knowlg.
-
-| Players         | Description |
-| --------------- | ----------- |
-| PDF Player      |             |
-| Video Player    |             |
-| H5p/HTML Player |             |
-| ECML Player     |             |
-| EPUB Player     |             |
-
 #### Sunbird Obsrv <a href="sunbird-obsrv" id="sunbird-obsrv"></a>
 
 Sunbird Obsrv building block is a combination of various tools which provide the capabilities such as streaming, processing and storage of telemetry data and deriving reporting insights from the data.\

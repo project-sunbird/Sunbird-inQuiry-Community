@@ -13,6 +13,8 @@
 ## Use
 
 * [System requirements](use/system-requirements.md)
+* [Specifications](use/specifications.md)
+* [Configuration How-to](use/configuration-how-to.md)
 
 ## ENGAGE
 

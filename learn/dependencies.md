@@ -26,7 +26,6 @@ List of Services and APIs used from Sunbird Knowlg.
 | ----------------- | ---------------------------------- | ----------- |
 | Taxonomy service  | framework/v1/read                  |             |
 |                   | channel/v1/read                    |             |
-|                   | License APIs                       |             |
 |                   | object/category/definition/v1/read |             |
 | DIAL Code service | dialcode/v1/reserve                |             |
 |                   | dialcode/v1/process/status         |             |

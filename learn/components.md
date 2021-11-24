@@ -6,6 +6,10 @@ Question and Question set service is a micro-service which provides APIs to mana
 
 We use assessment APIs from Sunbird Knowlg for this purpose. (It will be decoupled and moved as part of inQuiry.)
 
+{% hint style="info" %}
+[Question and Question set Service API Documentation](http://docs.sunbird.org/latest/apis/questionapi/)
+{% endhint %}
+
 {% embed url="https://github.com/project-sunbird/knowledge-platform" %}
 Source Code
 {% endembed %}

@@ -13,7 +13,7 @@ The following are prerequisites to use question & question set service
 | Cassandra     | 3.9.0   |
 | Kafka         | 2.4.1   |
 
-## Requirements for Client Apps
+## Requirements for Editor & Player
 
 The following are prerequisites to use question set editor and player
 

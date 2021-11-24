@@ -8,6 +8,7 @@
 * [Features](learn/features.md)
 * [Components](learn/components.md)
 * [Dependencies](learn/dependencies.md)
+* [Technical Architecture](learn/technical-architecture.md)
 
 ## Use
 

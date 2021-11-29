@@ -1,6 +1,6 @@
 # Features
 
-One of the key features of inQuiry building block is that the creators can manifest variety of use cases by configuring the behaviour of the question. Here is the list of configurations that can be enabled:
+The usp of the inQuiry building block is that the creators can manifest variety of use cases by configuring the behaviour of the question or question set. Here is the list of configurations that are available to the creators:
 
 | Features            | Description                                                                                                                                      |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |

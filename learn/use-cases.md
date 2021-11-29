@@ -17,5 +17,8 @@ At a broad level, basis the purpose, these use cases can be categorised as Pract
 | Alternative(s) \[ users have to solve this problem] | Excel, word, google forms, survey monkey, wofoo                                                                                                                                                                                                                | Excel, word, google forms, survey monkey, wofoo, classroom tests                                                                                                                                                                                               | google forms, survey monkey, wofoo |
 |                Why \[USP of inQuiry]                | <p>a) Ability to configure a wide range of behaviours</p><p>b) Ability to extend via integration with out of the box components</p><p>c) Questions created using interoperable QuML spec </p><p>d) WCAG AA compliant QuML player</p><p>e) Emission of data</p> | <p>a) Ability to configure a wide range of behaviours</p><p>b) Ability to extend via integration with out of the box components</p><p>c) Questions created using interoperable QuML spec </p><p>d) WCAG AA compliant QuML player</p><p>e) Emission of data</p> | ?                                  |
 
+###
 
+Additional information about these use cases is elaborated in this video:
 
+{% embed url="https://www.youtube.com/watch?v=8B01FlIMGWk" %}

@@ -15,6 +15,7 @@
 * [System requirements](use/system-requirements.md)
 * [Specifications](use/specifications.md)
 * [Configuration How-to](use/configuration-how-to/README.md)
+  * [Question & Question set service](use/configuration-how-to/question-and-question-set-service.md)
   * [Question set editor](use/configuration-how-to/question-set-editor.md)
   * [Question set player](use/configuration-how-to/question-set-player.md)
 

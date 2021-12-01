@@ -2,20 +2,20 @@
 
 Sunbird inQuiry is a building block that enables setting up of question banks that can contain questions and question sets for various use cases such as practice, assessment, quiz, worksheet, survey, observations and many more.
 
-### Description <a href="description" id="description"></a>
+### Description <a href="#description" id="description"></a>
 
-This building block consists of tools(editor and player) and services that enable **creation** of** **question(s) and question set(s), **configuration **of** **their behaviour, **curation** and **publishing **them for consumption, **playing** of question set(s) and **emission** of meaningful data.
+This building block consists of tools(editor and player) and services that enable **creation** of **** question(s) and question set(s), **configuration** of **** their behaviour, **curation** and **publishing** them for consumption, **playing** of question set(s) and **emission** of meaningful data.
 
 inQuiry works with primarily two objects - Question and Question Set - and uses the interoperable QuML Specification.
 
 inQuiry can be extended for adaptive tests, gamified quizzes, rubric-driven assessments, competitions, data collection and other use-cases. It supports configurable behaviour of various kinds such as timer, certificate, hints, attempts, etc.
 
-### Key capabilities: <a href="overview-of-capabilities" id="overview-of-capabilities"></a>
+### Key capabilities: <a href="#overview-of-capabilities" id="overview-of-capabilities"></a>
 
 1. **Creation:** of question(s) and question set(s) as per an interoperable QuML spec either using the question set editor, by bulk upload of questions or API .
 2. **Configuration**: of the question set behaviour. For ex., randomize the questions from the question bank, limit the number of attempts, set timer etc.
 3. **Tagging**: of question(s) and question set(s) with meaningful metadata useful for discovery and analysis.
-4. **Publish: **Curation and publishing of question(s) and question set(s). Publish workflow also ensures that the published assets can be played in both offline & online modes.
+4. **Publish:** Curation and publishing of question(s) and question set(s). Publish workflow also ensures that the published assets can be played in both offline & online modes.
 5. **Play**: The player for question set(s) is embeddable, configurable and extendable.
 6. **Data Emission**:
    1. Emission of question response and result data using an interoperable specification (QuML)
@@ -36,4 +36,4 @@ Avanti Fellows, EkStep, Samagra & Shikshalokam
 
 21-Oct-2021, 4.3.0
 
-## &#x20;<a href="last-release-date" id="last-release-date"></a>
+## &#x20;<a href="#last-release-date" id="last-release-date"></a>

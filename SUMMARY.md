@@ -5,7 +5,7 @@
 ## LEARN
 
 * [Use Cases](learn/use-cases.md)
-* [Features](learn/features.md)
+* [Capabilities](learn/capabilities.md)
 * [Components](learn/components.md)
 * [Dependencies](learn/dependencies.md)
 * [Technical Architecture](learn/technical-architecture.md)

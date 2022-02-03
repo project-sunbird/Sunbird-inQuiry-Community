@@ -379,16 +379,14 @@ In the case of timer warningTime should be less than or equal to maxTime so in w
 ]
 ```
 
-## Sample Root Node form <a href="#root-node-form" id="root-node-form"></a>
+## Sample QuestionSet form <a href="#root-node-form" id="root-node-form"></a>
 
-![The config for root node is objectCategoryDefinition.forms.create](../../../.gitbook/assets/rootNodeForm.png)
+![QuestionSet form](../../../.gitbook/assets/rootNodeForm.png)
 
 ## **Sample Section Form**
 
-![The config for section is objectCategoryDefinition.forms.unitMetadata
-](../../../.gitbook/assets/sectionForm.png)
+![Sample section form](../../../.gitbook/assets/sectionForm.png)
 
 ## Sample Publish Check List <a href="#publish-check-list" id="publish-check-list"></a>
 
-![The config for section is objectCategoryDefinition.forms.publishchecklist
-](../../../.gitbook/assets/publishChecklist.png)
+![Sample publish checklist](../../../.gitbook/assets/publishChecklist.png)

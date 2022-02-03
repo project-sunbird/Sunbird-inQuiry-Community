@@ -16,10 +16,14 @@
 * [Specifications](use/specifications.md)
 * [How-to](use/how-to/README.md)
   * [Question & Question set service](use/how-to/question-and-question-set-service.md)
-  * [Question set editor](use/how-to/question-set-editor.md)
   * [Page 1](use/how-to/page-1.md)
+  * [Question set editor](use/how-to/question-set-editor.md)
+  * [Page 1](use/how-to/page-1-1/README.md)
+    * [Installation and Contribution Guide](use/how-to/page-1-1/installation-and-contribution-guide.md)
+    * [Configuration](use/how-to/page-1-1/configuration.md)
+    * [QuestionSet Form Configuration](use/how-to/page-1-1/questionset-form-configuration.md)
   * [Question set player](use/how-to/question-set-player/README.md)
-    * [Installation and Contribution Guide](use/how-to/question-set-player/installation-and-contribution-guide.md)
+    * [Installation and Contribution Guide](use/how-to/question-set-player/installation.md)
     * [Configuration](use/how-to/question-set-player/configuration.md)
 
 ## ENGAGE

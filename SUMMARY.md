@@ -14,10 +14,12 @@
 
 * [System requirements](use/system-requirements.md)
 * [Specifications](use/specifications.md)
-* [Configuration How-to](use/configuration-how-to/README.md)
-  * [Question & Question set service](use/configuration-how-to/question-and-question-set-service.md)
-  * [Question set editor](use/configuration-how-to/question-set-editor.md)
-  * [Question set player](use/configuration-how-to/question-set-player.md)
+* [How-to](use/how-to/README.md)
+  * [Question & Question set service](use/how-to/question-and-question-set-service.md)
+  * [Question set editor](use/how-to/question-set-editor.md)
+  * [Question set player](use/how-to/question-set-player/README.md)
+    * [Installation](use/how-to/question-set-player/installation.md)
+    * [Configuration](use/how-to/question-set-player/configuration.md)
 
 ## ENGAGE
 

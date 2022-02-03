@@ -119,7 +119,7 @@ Copy both styles.css and quml-carousel.css from below path and add to your appli
 
 ### Step 5: Include the library selector in view( Eg .HTML file)
 
-Use the mock config in your component to send input to Quml player Click to see the mock - [playerConfig](question-set-player.md#undefined) Use 'singleContentRes' for single questionset and 'sectionContent' for section questionset in the mock
+Use the mock config in your component to send input to Quml player Click to see the mock - [playerConfig](./#undefined) Use 'singleContentRes' for single questionset and 'sectionContent' for section questionset in the mock
 
 ```
 <quml-main-player [playerConfig]="QumlPlayerConfig" (playerEvent)="getPlayerEvents($event)"
@@ -132,4 +132,4 @@ Use the mock config in your component to send input to Quml player Click to see 
 | ----------- | -------------------------- | ---------------- | ---------------------------------------------------------------------- | ------------ | --------------------------- |
 | Quml Player | Can be used to render Quml | quml-main-player | _`<quml-main-player [playerConfig]="playerConfig"><quml-main-player>`_ | playerConfig | playerEvent, telemetryEvent |
 
-For More Information, Please refer to the GitHub repo [link](question-set-player.md#getting-started).
+For More Information, Please refer to the GitHub repo [link](./#getting-started).

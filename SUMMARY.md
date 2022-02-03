@@ -17,8 +17,9 @@
 * [How-to](use/how-to/README.md)
   * [Question & Question set service](use/how-to/question-and-question-set-service.md)
   * [Question set editor](use/how-to/question-set-editor.md)
+  * [Page 1](use/how-to/page-1.md)
   * [Question set player](use/how-to/question-set-player/README.md)
-    * [Installation](use/how-to/question-set-player/installation.md)
+    * [Installation and Contribution Guide](use/how-to/question-set-player/installation-and-contribution-guide.md)
     * [Configuration](use/how-to/question-set-player/configuration.md)
 
 ## ENGAGE

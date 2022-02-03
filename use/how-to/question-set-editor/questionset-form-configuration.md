@@ -1,9 +1,5 @@
 # QuestionSet Form Configuration
 
-For the questionset we are adding the form configuration in **object category definition**.
-
-(Sample object category definition is present in the end of this page).
-
 ## &#x20;Field Configuration Properties:
 
 ```

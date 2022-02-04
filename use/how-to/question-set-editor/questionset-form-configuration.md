@@ -294,7 +294,7 @@ In QuestionSet Editor these are the following of fields which we are using:
 
 ![sb-g-col-lg-2](../../../.gitbook/assets/richText.png)
 
-* Two column space fields should have renderHints as:
+* One column space fields should have renderHints as:
 
 ```
 "renderingHints": {

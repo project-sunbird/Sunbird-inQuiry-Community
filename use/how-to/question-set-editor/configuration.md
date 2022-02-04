@@ -154,7 +154,7 @@ config: {
 | <p>questionSet. maxQuestionsLimit</p><p> </p> |                                                                       | false    | It defines the limit of total number of question to be created inside questionset.                                                                                                                           |
 | contentPolicyUrl                              |                                                                       | true     | It defines where should the content policy link will be redirected.                                                                                                                                          |
 
-### &#x20;   Important Configs
+## :orange\_circle: Important Configs
 
 #### `mode`
 

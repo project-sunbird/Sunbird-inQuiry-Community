@@ -31,6 +31,7 @@
   * [Question set player](use/how-to/question-set-player/README.md)
     * [Installation and Contribution Guide](use/how-to/question-set-player/installation.md)
     * [Configuration](use/how-to/question-set-player/configuration.md)
+    * [FAQ](use/how-to/question-set-player/faq.md)
 
 ## ENGAGE
 

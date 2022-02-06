@@ -4,9 +4,11 @@
 
 The QuML player is an angular library built with Angular version 9, and it exports some modules and components. It has a component that accepts the input from the user. The followings are the list of all the configurations on which the QuML player is working.
 
-**Component:** quml-main-player  \
+## ****:notebook\_with\_decorative\_cover:**Component:** _quml-main-player_&#x20;
+
+\
 &#x20; This is the main player Component that accepts some configuration (here `playerConfig`) based on it will render the player.  \
-&#x20; While rendering the player it also emits some events such as `playerEvent` and `telemetryEvent`
+&#x20; While rendering the player it also emits some events such as `playerEvent` and `telemetryEvent quml-main-player`
 
 Let's deep dive into the player input configuration:
 
@@ -18,9 +20,12 @@ Let's deep dive into the player input configuration:
   }
 ```
 
-1. **Config** - Required\
-   This Required property from the playerConfig provides the configuration for the player to enable/disable some functionalities.  \
-   Along with this it also provides the state of the content, if available.
+## :clipboard:Input Config
+
+### **1. Config** - Required
+
+This Required property from the playerConfig provides the configuration for the player to enable/disable some functionalities.  \
+Along with this it also provides the state of the content, if available.
 
 ```typescript
   export interface Config {
@@ -54,7 +59,7 @@ Description of the properties for the config
 | lastQuestionId        | null          | true     | Last accessed question Identifier                                                                               |
 | duration              | 0             | true     | Last player duration in miliseconds.                                                                            |
 
-**2. Context** - Required
+### **2. Context** - Required
 
 This Required property from the playerConfig provides the context to the player mostly in terms of the telemetry.
 
@@ -105,7 +110,7 @@ Description of the properties for the config
 | userData.firstName | false    | User's first name                                               |
 | userData.lastName  | false    | User's last name                                                |
 
-**3. Metadata:** Required
+### **3. Metadata:** Required
 
 Following is the interface for the metadata:
 
@@ -155,10 +160,21 @@ The followings are some of the properties related to the question set response, 
 | showSolutions   | Config to show/hide the solution button                                                                                                                                                                              |
 | shuffle         | Config to enable/disable the shuffle in questions                                                                                                                                                                    |
 
+
+
+
+
+## :arrow\_forward:Screenshots:
+
 * Refer to the following screenshots for more understanding:
 
 ![First page configurations](../../../.gitbook/assets/parent-config.png)
 
+
+
 ![Sidebar menu configurations](../../../.gitbook/assets/sidemenu.png)
 
+
+
 ![Feedback popup configurations](../../../.gitbook/assets/feedback-popup.png)
+

@@ -27,8 +27,6 @@ _**Where has Sunbird InQuiry been used?**_&#x20;
 
 Sunbird InQuiry is leveraged in DIKSHA - Digital Infrastructure for Knowledge Sharing, the national school education platform of India. &#x20;
 
-<mark style="color:green;">\<add metrics - bragging rights for Sunbird InQuiry></mark>
-
 _**Contributors:**_ EkStep, Samagra & Shikshalokam
 
 _**Last release date & version:**_ 31-Jan-2022, 4.6.0

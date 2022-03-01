@@ -1,39 +1,36 @@
 # Sunbird inQuiry
 
-Sunbird inQuiry is a building block that enables setting up of question banks that can contain questions and question sets for various use cases such as practice, assessment, quiz, worksheet, survey, observations and many more.
+_**What is Sunbird InQuiry?**_
 
-### Description <a href="#description" id="description"></a>
+Sunbird inQuiry is a software building block that enables setting up of question banks for various use cases such as assessments, quizzes, practice worksheets, surveys, and many more. These are applicable in multiple domains related to education and human development.&#x20;
 
-This building block consists of tools(editor and player) and services that enable **creation** of **** question(s) and question set(s), **configuration** of **** their behaviour, **curation** and **publishing** them for consumption, **playing** of question set(s) and **emission** of meaningful data.
+Here are some examples of solutions that can be enabled through Sunbird inQuiry:
 
-inQuiry works with primarily two objects - Question and Question Set - and uses the interoperable QuML Specification.
+* Conduct assessments which can evaluate users’ understanding of concepts and issue certificates based on assessment score.&#x20;
+* Evaluate assessment data to take informed decisions and plan for interventions.&#x20;
+* Launch surveys to collect feedback and analyse responses. <mark style="color:green;"></mark>&#x20;
 
-inQuiry can be extended for adaptive tests, gamified quizzes, rubric-driven assessments, competitions, data collection and other use-cases. It supports configurable behaviour of various kinds such as timer, certificate, hints, attempts, etc.
+Further, Sunbird inQuiry can be extended for use cases like adaptive tests, gamified quizzes, rubric-driven assessments, competitions, etc.
 
-### Key capabilities: <a href="#overview-of-capabilities" id="overview-of-capabilities"></a>
+_**What does Sunbird inQuiry offer?**_\
+This building block consists of pluggable tools and microservices that enable creation of questions and question sets (collection of questions), configuration of their behaviour, curation and publishing them for users to play on any device.&#x20;
 
-1. **Creation:** of question(s) and question set(s) as per an interoperable QuML spec either using the question set editor, by bulk upload of questions or API .
-2. **Configuration**: of the question set behaviour. For ex., randomize the questions from the question bank, limit the number of attempts, set timer etc.
-3. **Tagging**: of question(s) and question set(s) with meaningful metadata useful for discovery and analysis.
-4. **Publish:** Curation and publishing of question(s) and question set(s). Publish workflow also ensures that the published assets can be played in both offline & online modes.
-5. **Play**: The player for question set(s) is embeddable, configurable and extendable.
-6. **Data Emission**:
-   1. Emission of question response and result data using an interoperable specification (QuML)
-   2. Emission of question set result and summary data using an interoperable specification (QuML)
-   3. The editor and player emit useful telemetry to make meaning of the user's action, which can be used to generate reports and derive insights.
+Key capabilities offered by Sunbird inQuiry are:&#x20;
 
-Similar to various [Sunbird](https://sunbird.org) building blocks, this is also open sourced under MIT license and you are free to adopt for your purposes. We strongly encourage you to contribute back, participate in the community to help improve this project.&#x20;
+* **Question banks:** Create question(s) as per an interoperable QuML spec by using the pluggable editor, bulk import through APIs, tag them to rich metadata, and organize into question sets.&#x20;
+* **End-to-end publishing process:** Enable questions (and question sets) creation, curation and publish processes using microservices.&#x20;
+* **Diverse question types:** Currently MCQ and subjective questions are available, with new types coming soon.&#x20;
+* **Engaging & inclusive experiences:** Configure features like randomizing questions, timer, hints, etc using a pluggable player to enable various use cases. Player is built as per the WCAG AA guidelines which enables you to reach more learners.&#x20;
+* **Analytics:** Make meaning of the user's actions, generate reports & dashboards, and derive insights by leveraging telemetry data e.g. user response, result, and summary data. &#x20;
 
-### **Adopters**
+_**Where has Sunbird InQuiry been used?**_&#x20;
 
-DIKSHA
+Sunbird InQuiry is leveraged in DIKSHA - Digital Infrastructure for Knowledge Sharing, the national school education platform of India. &#x20;
 
-### **Contributors**
+<mark style="color:green;">\<add metrics - bragging rights for Sunbird InQuiry></mark>
 
-Avanti Fellows, EkStep, Samagra & Shikshalokam
+_**Contributors:**_ EkStep, Samagra & Shikshalokam
 
-### **Last release date & version**
-
-21-Oct-2021, 4.3.0
+_**Last release date & version:**_ 31-Jan-2022, 4.6.0
 
 ## &#x20;<a href="#last-release-date" id="last-release-date"></a>

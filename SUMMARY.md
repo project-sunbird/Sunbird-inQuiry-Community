@@ -4,35 +4,51 @@
 
 ## LEARN
 
-* [Use Cases](learn/use-cases.md)
-* [Capabilities](learn/capabilities.md)
-* [Components](learn/components.md)
-* [Dependencies](learn/dependencies.md)
+* [Functional Capabilities](learn/functional-capabilities.md)
+* [Case Studies](learn/case-studies.md)
 * [Technical Architecture](learn/technical-architecture.md)
+* [Product & Developer Guide](learn/product-and-developer-guide/README.md)
+  * [Question Set & Question Service](learn/product-and-developer-guide/question-set-and-question-service/README.md)
+    * [Configuration](learn/product-and-developer-guide/question-set-and-question-service/configuration.md)
+    * [Schema](learn/product-and-developer-guide/question-set-and-question-service/schema/README.md)
+      * [Question Schema](learn/product-and-developer-guide/question-set-and-question-service/schema/question-schema.md)
+      * [QuestionSet Schema](learn/product-and-developer-guide/question-set-and-question-service/schema/questionset-schema.md)
+  * [Question Set Editor](learn/product-and-developer-guide/question-set-editor/README.md)
+    * [Configuration](learn/product-and-developer-guide/question-set-editor/configuration.md)
+    * [QuestionSet Form Configuration](learn/product-and-developer-guide/question-set-editor/questionset-form-configuration.md)
+    * [FAQ's](learn/product-and-developer-guide/question-set-editor/faqs.md)
+  * [Question Set Player](learn/product-and-developer-guide/question-set-player/README.md)
+    * [Configuration](learn/product-and-developer-guide/question-set-player/configuration.md)
+    * [FAQ](learn/product-and-developer-guide/question-set-player/faq.md)
+* [Try it out](learn/try-it-out.md)
+* [Product Roadmap](learn/product-roadmap.md)
 
 ## Use
 
 * [System requirements](use/system-requirements.md)
-* [Specifications](use/specifications.md)
-* [How-to](use/how-to/README.md)
-  * [Question & Question set service](use/how-to/question-and-question-set-service.md)
-    * [Installation](use/how-to/question-and-question-set-service/installation/README.md)
-      * [Server Installation](use/how-to/question-and-question-set-service/installation/server-installation.md)
-      * [Local Installation](use/how-to/question-and-question-set-service/installation/local-installation.md)
-    * [Configuration](use/how-to/question-and-question-set-service/configuration.md)
-    * [Schema](use/how-to/question-and-question-set-service/schema/README.md)
-      * [Question Schema](use/how-to/question-and-question-set-service/schema/question-schema.md)
-      * [QuestionSet Schema](use/how-to/question-and-question-set-service/schema/questionset-schema.md)
-  * [Question set Editor](use/how-to/question-set-editor/README.md)
-    * [Installation and Contribution Guide](use/how-to/question-set-editor/installation-and-contribution-guide.md)
-    * [Configuration](use/how-to/question-set-editor/configuration.md)
-    * [QuestionSet Form Configuration](use/how-to/question-set-editor/questionset-form-configuration.md)
-    * [FAQ's](use/how-to/question-set-editor/faqs.md)
-  * [Question set player](use/how-to/question-set-player/README.md)
-    * [Installation and Contribution Guide](use/how-to/question-set-player/installation.md)
-    * [Configuration](use/how-to/question-set-player/configuration.md)
-    * [FAQ](use/how-to/question-set-player/faq.md)
+* [Installation guide](use/installation-guide/README.md)
+  * [Question & Question set service](use/installation-guide/question-and-question-set-service/README.md)
+    * [Server Installation](use/installation-guide/question-and-question-set-service/server-installation.md)
+    * [Local Installation](use/installation-guide/question-and-question-set-service/local-installation.md)
+  * [Question set Editor](use/installation-guide/question-set-editor/README.md)
+    * [Installation and Contribution Guide](use/installation-guide/question-set-editor/installation-and-contribution-guide.md)
+  * [Question set Player](use/installation-guide/question-set-player/README.md)
+    * [Installation and Contribution Guide](use/installation-guide/question-set-player/installation-and-contribution-guide.md)
+* [Upgrade](use/upgrade.md)
+* [Release notes](use/release-notes.md)
 
 ## ENGAGE
 
-* [Page 2](engage/page-2.md)
+* [Engage](engage/engage.md)
+
+## Guidelines or Best practices&#x20;
+
+* [Testing QA guidelines](guidelines-or-best-practices/testing-qa-guidelines.md)
+* [Developer coding guidelines](guidelines-or-best-practices/developer-coding-guidelines.md)
+
+## Archived
+
+* [Use Cases](archived/use-cases.md)
+* [Components](archived/components.md)
+* [Capabilities](archived/capabilities.md)
+* [Dependencies](archived/dependencies.md)

@@ -37,10 +37,14 @@ Along with this it also provides the state of the content, if available.
         showReplay?: boolean;
         showExit?: boolean;
     };
-    progressBar: any[];
-    questions: any[];
-    lastQuestionId: string;
-    duration: number;
+    progressBar?: any[];
+    questions?: any[];
+    lastQuestionId?: string;
+    duration?: number;
+    nextContent?: {
+        name: string;
+        identifer?: string;
+    }
 }
 ```
 
@@ -54,10 +58,11 @@ Description of the properties for the config
 | sideMenu.showDownload | true          | false    | To enable the Download functionality in a sidebar menu                                                          |
 | sideMenu.showReplay   | true          | false    | To enable the Replay functionality in a sidebar menu                                                            |
 | sideMenu.showExit     | true          | false    | To enable the exit functionality in a sidebar menu (Mostly used in mobile application to exit the player)       |
-| progressBar           | \[ ]          | true     | Previous saved state for progressBar. It is state object containing question and there associate answer status. |
-| questions             | \[ ]          | true     | Previous saved state for questions. Array of saved questions                                                    |
-| lastQuestionId        | null          | true     | Last accessed question Identifier                                                                               |
-| duration              | 0             | true     | Last player duration in miliseconds.                                                                            |
+| progressBar           | \[ ]          | false    | Previous saved state for progressBar. It is state object containing question and there associate answer status. |
+| questions             | \[ ]          | false    | Previous saved state for questions. Array of saved questions                                                    |
+| lastQuestionId        | null          | false    | Last accessed question Identifier                                                                               |
+| nextContent           | null          | false    | Data of the next content to be play like name and identifier                                                    |
+| duration              | 0             | false    | Last player duration in miliseconds.                                                                            |
 
 ### **2. Context** - Required
 
@@ -128,7 +133,7 @@ Following is the interface for the metadata:
     primaryCategory: string;
     mimeType: string;
     objectType: string;
-    maxAttempt: number;
+    maxAttempts: number;
     showHints: string;
     showFeedback: string;
     requiresSubmit: string;
@@ -153,7 +158,7 @@ The followings are some of the properties related to the question set response, 
 | allowSkip       | Config to tell the player if skipping the questions are allowed. If allowed then user can directly jump to any question, if cannot skip the question.                                                                |
 | primaryCategory | Primary Category of the questionset e.g. Practice Question Set                                                                                                                                                       |
 | mimeType        | MimeType of the questionset which is 'application/vnd.sunbird.questionset'                                                                                                                                           |
-| maxAttempt      | Maximum number of attempts one can take. It will be shown on the player. Once the all the attempts are exhausted user cannot attempt questionset anymore                                                             |
+| maxAttempts     | Maximum number of attempts one can take. It will be shown on the player. Once the all the attempts are exhausted user cannot attempt questionset anymore                                                             |
 | showHints       | Config to show/hide the hint button. By clicking on this button it will show solution page.                                                                                                                          |
 | showFeedback    | Config to show/hide feedback page. If enabled it will show feedback popup for correct and wrong answer. For wrong answer user can attempt question again by clicking on ‘Try Again’ button                           |
 | requiresSubmit  | Config to show/hide the submit button. This is to show submit page where all the questions are listed and user can navigate to skipped or attempted questions directly from this page before submitting the answers. |

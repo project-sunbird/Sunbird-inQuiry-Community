@@ -1,20 +1,20 @@
 # Question & Question Set Editor
 
-Question set editor is used to create a question set, configure its behaviour, and add/create questions using the question editor in the question set. This editor is built in such a way that it is embeddable and extendable.
+Question set editor is used to create a question set, configure its behaviour, and add/create questions using the question editor in the question set. These editors are embeddable in any angular web apps, and built using plugin based architecture thereby extendable to enhance the base functionalities.&#x20;
 
 #### Key Features:
 
-1\) Enables creation of different types of questions.
+1\) Powerful question editor
+
+* Which enables creation of different types of questions.
 
 ![](<../../../.gitbook/assets/Screen Shot 2022-03-14 at 10.11.30 PM.png>)
 
-2\) Powerful question editor
-
-* Which allows for usage of images, rich text & math equations to create a variety of questions.&#x20;
+* Which allows for creation of question(s) which have images & rich text.
 
 ![](<../../../.gitbook/assets/Screen Shot 2022-03-14 at 10.15.09 PM.png>)
 
-* Ability to add and customise scientific and mathematical formulae
+* Ability to add and customise scientific and mathematical formulae in the question text.
 
 ![](<../../../.gitbook/assets/Screen Shot 2022-03-14 at 10.17.57 PM.png>)
 
@@ -42,9 +42,12 @@ Question set editor is used to create a question set, configure its behaviour, a
 
 * Ability to preview questions
 
+2\) Powerful question set editor
 
-
-1. Ability to add and customise scientific and mathematical formulae.
+* Which allows for grouping of questions into multiple sections.&#x20;
+* Allows for question set level metadata tagging against system defined taxonomy.
+* Preview of the question set.
+* Configuration of the behaviour of the question set.
 
 {% embed url="https://github.com/Sunbird-Ed/sunbird-collection-editor" %}
 Source Code

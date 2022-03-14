@@ -6,8 +6,10 @@ In the current implementation, the assessment APIs from Sunbird Knowlg are utili
 
 #### Key Features:
 
-1. Enable APIs to manage the lifecycle of QuestionSet
+1. Provides APIs to manage the lifecycle of QuestionSet
 2. Generate ECAR file on publishing QuestionSet for offline consumption asynchronously
+
+![Lifecycle Management of a Question Set](<../../../.gitbook/assets/Screen Shot 2022-03-14 at 9.55.13 PM.png>)
 
 {% hint style="info" %}
 [Question and Question set Service API Documentation](http://docs.sunbird.org/latest/apis/questionapi/)

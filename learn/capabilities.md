@@ -22,7 +22,7 @@ In this section, we will cover in a little detail about each of the key capabili
 
 ![Representation of services used to power assessments in courses](<../.gitbook/assets/Screen Shot 2022-03-14 at 7.32.10 PM.png>)
 
-**c) Diverse question types:**&#x20;
+**c) Question editor** enables you to create **diverse question types:**&#x20;
 
 * inQuiry comes with pre-built question types: Multiple choice questions and Subjective questions. It can be extended to build other questions types as per your need.
 * Allows you to create questions with rich text, format text, images and math equations amongst others.

@@ -1,9 +1,8 @@
 # Table of contents
 
-* [Sunbird inQuiry](README.md)
-
 ## LEARN
 
+* [Overview](README.md)
 * [Capabilities](learn/capabilities.md)
 * [Case Studies](learn/case-studies.md)
 * [Technical Architecture](learn/technical-architecture.md)

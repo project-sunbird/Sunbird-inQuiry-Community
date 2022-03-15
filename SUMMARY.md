@@ -4,7 +4,6 @@
 
 * [Overview](README.md)
 * [Capabilities](learn/capabilities.md)
-* [Case Studies](learn/case-studies.md)
 * [Technical Architecture](learn/technical-architecture.md)
 * [Product & Developer Guide](learn/product-and-developer-guide/README.md)
   * [Question & Question Set Service](learn/product-and-developer-guide/question-and-question-set-service/README.md)

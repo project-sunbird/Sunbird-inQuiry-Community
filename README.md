@@ -1,6 +1,8 @@
-# Sunbird inQuiry
+# Overview
 
-_**What is Sunbird InQuiry?**_
+## _**What is Sunbird InQuiry?**_
+
+
 
 Sunbird inQuiry is a software building block that enables setting up of question banks for various use cases such as assessments, quizzes, practice worksheets, surveys, and many more. These are applicable in multiple domains related to education and human development.&#x20;
 
@@ -12,7 +14,11 @@ Here are some examples of solutions that can be enabled through Sunbird inQuiry:
 
 Further, Sunbird inQuiry can be extended for use cases like adaptive tests, gamified quizzes, rubric-driven assessments, competitions, etc.
 
-_**What does Sunbird inQuiry offer?**_\
+_****_
+
+## _**What does Sunbird inQuiry offer?**_
+
+\
 This building block consists of pluggable tools and microservices that enable creation of questions and question sets (collection of questions), configuration of their behaviour, curation and publishing them for users to play on any device.&#x20;
 
 Key capabilities offered by Sunbird inQuiry are:&#x20;
@@ -23,7 +29,9 @@ Key capabilities offered by Sunbird inQuiry are:&#x20;
 * **Engaging & inclusive experiences:** Configure features like randomizing questions, timer, hints, etc using a pluggable player to enable various use cases. Player is built as per the WCAG AA guidelines which enables you to reach more learners.&#x20;
 * **Analytics:** Make meaning of the user's actions, generate reports & dashboards, and derive insights by leveraging telemetry data e.g. user response, result, and summary data. &#x20;
 
-_**Where has Sunbird InQuiry been used?**_&#x20;
+## _**Where has Sunbird InQuiry been used?**_&#x20;
+
+
 
 Sunbird InQuiry is leveraged in DIKSHA - Digital Infrastructure for Knowledge Sharing, the national school education platform of India. &#x20;
 

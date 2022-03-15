@@ -10,7 +10,7 @@ Question set editor is used to create a question set, configure its behaviour, a
 
 ![](<../../../.gitbook/assets/Screen Shot 2022-03-14 at 10.11.30 PM.png>)
 
-* Which allows for creation of question(s) which have images & rich text.
+* Ability to create question(s) which have images & rich text.
 
 ![](<../../../.gitbook/assets/Screen Shot 2022-03-14 at 10.15.09 PM.png>)
 
@@ -44,10 +44,33 @@ Question set editor is used to create a question set, configure its behaviour, a
 
 2\) Powerful question set editor
 
-* Which allows for grouping of questions into multiple sections.&#x20;
+* Ability to create question sets with ease using the tree structure
+
+![](<../../../.gitbook/assets/Screen Shot 2022-03-15 at 9.40.54 AM.png>)
+
+* WYSIWYG editor which makes the creation experience easier and faster for creators.
+
+![](<../../../.gitbook/assets/Screen Shot 2022-03-15 at 9.48.59 AM (1).png>)
+
+* Ability to group questions into multiple sections with each section having its own specific behaviour. The various section level configurations available to the creator are:
+
+&#x20;    a) Shuffle questions - If enabled, users are presented with questions in a random order whenever they attempt the assessment.
+
+&#x20;    b) Feedback - if enabled, users are informed whether they have correctly answered question or not.&#x20;
+
+&#x20;    c) Show solution - if enabled, solutions of each question are shown to the users.
+
+&#x20;    d) Count of questions to be displayed in this section - By default, all questions in the section are shown to the user. However, creators have an option to show only a sub-set of questions by using this property.&#x20;
+
 * Allows for question set level metadata tagging against system defined taxonomy.
-* Preview of the question set.
-* Configuration of the behaviour of the question set.
+* Ability to preview the question set.&#x20;
+* Configuration of the behaviour of the question set. The various question set level configurations available to the creator are:
+
+&#x20;    a) Set maximum time - which is the maximum time allowed for the users to complete the question set.
+
+&#x20;    b) Set warning timer - timer to warn users about the time left to complete the question set.&#x20;
+
+&#x20;    c) Submit confirmation page - If enabled, provides an explicit Submit option for the users to review their answers and submit the assessment.&#x20;
 
 {% embed url="https://github.com/Sunbird-Ed/sunbird-collection-editor" %}
 Source Code

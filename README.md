@@ -1,6 +1,6 @@
 # Overview
 
-## _**What is Sunbird InQuiry?**_
+## _**What is Sunbird inQuiry?**_
 
 
 
@@ -29,7 +29,7 @@ Key capabilities offered by Sunbird inQuiry are:&#x20;
 * **Engaging & inclusive experiences:** Configure features like randomizing questions, timer, hints, etc using a pluggable player to enable various use cases. Player is built as per the WCAG AA guidelines which enables you to reach more learners.&#x20;
 * **Analytics:** Make meaning of the user's actions, generate reports & dashboards, and derive insights by leveraging telemetry data e.g. user response, result, and summary data. &#x20;
 
-## _**Where has Sunbird InQuiry been used?**_&#x20;
+## _**Where has Sunbird inQuiry been used?**_&#x20;
 
 
 

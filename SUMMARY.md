@@ -18,6 +18,7 @@
   * [Question Set Player](learn/product-and-developer-guide/question-set-player/README.md)
     * [Configuration](learn/product-and-developer-guide/question-set-player/configuration.md)
     * [FAQ](learn/product-and-developer-guide/question-set-player/faq.md)
+  * [Analytics](learn/product-and-developer-guide/analytics.md)
 * [Try it out](learn/try-it-out.md)
 * [Product Roadmap](learn/product-roadmap.md)
 

@@ -30,7 +30,12 @@ enable the **End-to-end publishing process**. These are microservices which allo
 
 enables you to create **diverse question types:**&#x20;
 
-* inQuiry comes with pre-built question types: Multiple choice questions and Subjective questions. It can be extended to build other questions types as per your need.
+*   inQuiry comes with TWO pre-built question types:&#x20;
+
+    * Multiple choice questions and&#x20;
+    * Subjective questions.&#x20;
+
+    It can be extended to build other questions types as per your need.
 * Allows you to create questions with rich text, format text, images and math equations amongst others.
 
 ### **d) Question set player (QuML player)**&#x20;
@@ -53,17 +58,14 @@ is an out of the box player provided by inQuiry to create **engaging & inclusive
 
 ### **e) Analytics:**&#x20;
 
-Every single user interaction is instrumented as per the Sunbird telemetry spec.&#x20;
+Every single user interaction is instrumented as per the Sunbird telemetry spec. Therefore, allowing you to use this granular data to create custom reports to turn user actions to insights. Here are the events specific to inQuiry:
 
-START - start of a question/question set session.&#x20;
+* START - start of a question/question set session.&#x20;
+* ASSESS - capture score and assessment data.&#x20;
+* RESPONSE - capture user responses.&#x20;
+* END - end of a question/question set session.
 
-ASSESS - capture score and assessment data.&#x20;
-
-RESPONSE - capture user responses.&#x20;
-
-END - end of a question/question set session.
-
-Therefore, allowing you to use this granular data to create custom reports to turn user actions to insights. Click [here](https://github.com/sunbird-specs/Telemetry/blob/3.3.0/specification.md) to know more about Sunbird telemetry spec.
+Click [here](https://github.com/sunbird-specs/Telemetry/blob/3.3.0/specification.md) to know more about Sunbird telemetry spec.
 
 
 

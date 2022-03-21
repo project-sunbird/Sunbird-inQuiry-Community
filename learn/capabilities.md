@@ -73,8 +73,15 @@ Click [here](https://github.com/sunbird-specs/Telemetry/blob/3.3.0/specification
 
 
 
+### **Use-Cases**
+
+inQuiry capabilities can power a variety of use-cases. Few examples are shown below:&#x20;
+
+![](<../.gitbook/assets/Screen Shot 2022-03-21 at 4.37.26 PM.png>)
+
 ### **Additional Information**
 
 Below recording from one of the Sunbird webinars provides more information about the capabilities enabled by inQuiry, the QuML spec, and the technical architecture.
 
 {% embed url="https://www.youtube.com/watch?t=1068s&v=xgvZUfYrxmQ" %}
+

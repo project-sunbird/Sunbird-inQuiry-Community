@@ -4,12 +4,13 @@ Question and Question set service is a micro-service which provides APIs to mana
 
 In the current implementation, the assessment APIs from Sunbird Knowlg are utilized for this purpose. (It will be decoupled and moved as part of inQuiry.)
 
-#### Key Features:
+#### Features:
 
-1. Provides APIs to manage the lifecycle of QuestionSet
-2. Generate ECAR file on publishing QuestionSet for offline consumption asynchronously
+1. Provides APIs to manage the lifecycle of Question Set(s).
 
 ![Lifecycle Management of a Question Set](<../../../.gitbook/assets/Screen Shot 2022-03-14 at 9.55.13 PM.png>)
+
+2\.  Enables offline consumption via generation of ECAR files in the packaging stage of the publish lifecycle.
 
 {% hint style="info" %}
 [Question and Question set Service API Documentation](http://docs.sunbird.org/latest/apis/questionapi/)

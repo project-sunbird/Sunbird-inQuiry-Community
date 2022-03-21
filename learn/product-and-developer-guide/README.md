@@ -1,6 +1,6 @@
 # Product & Developer Guide
 
-The components of inQuiry building block that enable the key capabilities outlined in the [overview](../../) and [capability](../capabilities.md) pages are:
+The components of inQuiry building block that enable the key capabilities outlined in the [overview](../../) and [capabilities](../capabilities.md) pages are:
 
 <details>
 
@@ -34,4 +34,4 @@ The components of inQuiry building block that enable the key capabilities outlin
 
 </details>
 
-In the subsequent pages you will find detailed documentation of functional and technical capabilities of these components.&#x20;
+In the subsequent pages you will find detailed functional and technical documentation of these components.&#x20;

@@ -22,20 +22,18 @@ enable the **End-to-end publishing process**. These are microservices which allo
 
 * Create, collaborate, curate & publish question(s) and question set(s).&#x20;
 * Easily scale as per your needs.
-* Unbundled microservices which provide you the flexibility to mix and match to create different solutions using the same set of microservices.
-
-![Representation of services used to power assessments in courses](<../.gitbook/assets/Screen Shot 2022-03-14 at 7.32.10 PM.png>)
+* Unbundle the microservices to create different solutions using the same set of microservices.
 
 ### **c) Question editor**&#x20;
 
 enables you to create **diverse question types:**&#x20;
 
-*   inQuiry comes with TWO pre-built question types:&#x20;
+*   inQuiry comes with two pre-built question types:&#x20;
 
     * Multiple choice questions and&#x20;
     * Subjective questions.&#x20;
 
-    It can be extended to build other questions types as per your need.
+    It can be extended to build other question types as per your need.
 * Allows you to create questions with rich text, format text, images and math equations amongst others.
 
 ### **d) Question set player (QuML player)**&#x20;
@@ -51,7 +49,7 @@ is an out of the box player provided by inQuiry to create **engaging & inclusive
 * Offline & Online:
   * Built to support both online and offline modes of consumption.
 * Enables variety of solutions:
-  * Allows you to use question sets for different usecases. For ex., the user experience for practice worksheets will show feedback, hints for each question however an assessment will have a completely different consumption behaviour where questions are randomized with a timer.&#x20;
+  * Allows you to use question sets for different usecases. For ex., the user experience for practice worksheets can be configured to show feedback, hints for each question. However a high stake assessment can be configured to have a completely different consumption behaviour with randomization of questions, limited number of attempts and a completion timer.&#x20;
 *   Responsive to different resolutions and orientations.&#x20;
 
     ****

@@ -8,7 +8,7 @@
 
 In this section, we will cover in a little detail about each of the key capabilities of inQuiry building block.
 
-### **a) Question set editor**&#x20;
+### **a) Question Set Editor**&#x20;
 
 is an out of the box tool offered by inQuiry to help you kickstart your creation of **Question Banks**. The key capabilities of this editor are:
 
@@ -22,7 +22,7 @@ is an out of the box tool offered by inQuiry to help you kickstart your creation
 * Ability to preview question set to replicate the actual user experience before publishing it.
 * In-built curation workflows to ensure that only reviewed question sets are published.
 
-### **b) Question editor**&#x20;
+### **b) Question Editor**&#x20;
 
 enables you to create **diverse question types:**&#x20;
 
@@ -34,7 +34,7 @@ enables you to create **diverse question types:**&#x20;
     It can be extended to build other question types as per your need.
 * Allows you to create questions with rich text, format text, images and math equations amongst others with proper metadata tagging.
 
-### **c) Question set services**&#x20;
+### **c) Question & Question Set services**&#x20;
 
 enable the **End-to-end publishing process**. These are microservices which allow you to: ****&#x20;
 
@@ -42,7 +42,7 @@ enable the **End-to-end publishing process**. These are microservices which allo
 * Easily scale as per your needs.
 * Unbundle the microservices to create different solutions using the same set of microservices.
 
-### **d) Question set player (QuML player)**&#x20;
+### **d) Question Set Player (QuML player)**&#x20;
 
 is an out of the box player provided by inQuiry to create **engaging & inclusive experiences** for end users consuming the question sets. The key capabilities of this player are:&#x20;
 

@@ -1,6 +1,6 @@
 # Question & Question Set Editor
 
-Question set editor is used to create a question set, configure its behaviour, and add/create questions using the question editor in the question set. These editors are embeddable in any angular web apps, and built using plugin based architecture thereby extendable to enhance the base functionalities.&#x20;
+Question set editor is used to create a question set, configure its behaviour, and add/create questions using the question editor in the question set. These editors are embeddable in any angular web apps, and built using plugin based architecture thereby easily extendable.&#x20;
 
 #### Key Features:
 
@@ -71,6 +71,10 @@ Question set editor is used to create a question set, configure its behaviour, a
 &#x20;    b) Set warning timer - timer to warn users about the time left to complete the question set.&#x20;
 
 &#x20;    c) Submit confirmation page - If enabled, provides an explicit Submit option for the users to review their answers and submit the assessment.&#x20;
+
+&#x20;    d) No. of attempts - which is the maximum number of attempts allowed.
+
+
 
 {% embed url="https://github.com/Sunbird-Ed/sunbird-collection-editor" %}
 Source Code

@@ -17,7 +17,7 @@ b) Embeddable: &#x20;
 
 c) Supports offline consumption
 
-d) Allows for users to download or print question sets
+d) Allows for users to download question sets
 
 e) Creates engaging learning by allowing users to:&#x20;
 
@@ -27,9 +27,11 @@ e) Creates engaging learning by allowing users to:&#x20;
 * Keep track of their time
 * Review and submit their answers to assessments
 
+![](https://lh5.googleusercontent.com/THbamHiOn9Gi8eDwCZeSHJrbX3GOSsNFcDry0J74HJvVmSADN8amjPKukiDFy1RE6\_G6UH6kPRl7MrrDdyRJhXrVhZ1DOwYeE59cJe9jo554QANSSXUc63uj6PFsBRl6n7fCHaXwFR0)
 
+![](<../../../.gitbook/assets/Screen Shot 2022-03-21 at 1.32.23 PM.png>)
 
-####
+![](https://lh5.googleusercontent.com/zSTG6dcYlL8WFZhkg2aezFHXQw38cug2RGPUHqZJIP1f5NBC8BL7nnx7xN0D\_j2ZnBXBWD1pU4lQBqxS3VvCVhRKb6TBuOVkvF5fS\_RZcHM10NhtpEo8RjgYZatpvQ11Wz1zH3Xe2zg)
 
 {% embed url="https://github.com/project-sunbird/sunbird-quml-player" %}
 Source Code

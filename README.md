@@ -37,6 +37,6 @@ Sunbird InQuiry is leveraged in DIKSHA - Digital Infrastructure for Knowledge Sh
 
 _**Contributors:**_ EkStep, Samagra & Shikshalokam
 
-_**Last release date & version:**_ 31-Jan-2022, 4.6.0
+_**Last release date & version:**_ 01-Mar-2022, 4.7.0
 
 ## &#x20;<a href="#last-release-date" id="last-release-date"></a>

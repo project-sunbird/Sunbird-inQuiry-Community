@@ -151,7 +151,7 @@ CREATE TABLE IF NOT EXISTS category_store.category_definition_data (
 **Step 5:**
 
 * Modify the application configuration (knowledge-platform/assessment-api/assessment-service/conf/application.conf) and do the maven build using maven command (mvn clean install -DskipTests)  from assessment-service folder location.
-* For Configuration details, Please Refer to [Configuration](../../../learn/product-and-developer-guide/question-and-question-set-service/configuration.md) Page.
+* For Configuration details, Please Refer to [Configuration](configuration.md) Page.
 
 **Step 6:**
 

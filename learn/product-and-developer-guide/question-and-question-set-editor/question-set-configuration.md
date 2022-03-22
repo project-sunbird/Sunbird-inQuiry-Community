@@ -1,6 +1,12 @@
-# Configuration
+---
+description: >-
+  In this section we have covered various configurations available in
+  questionset editor to enable and disable some functionalities.
+---
 
-Questionset Editor is an angular library built with Angular version 9, and it exports some modules and components.
+# Question Set Configuration
+
+Question Set Editor is an angular library built with Angular version 9, and it exports some modules and components.
 
 ## **Component:** `editor`
 
@@ -197,7 +203,7 @@ In sourcingreview, we have “instructions”, so when the mode of editor is sou
 
 When **enableQuestionCreation: false** “Create New” button gets disabled
 
-![](<../../../.gitbook/assets/image (10).png>)
+![](<../../../.gitbook/assets/image (10) (1).png>)
 
 #### **assetConfig**
 
@@ -222,7 +228,7 @@ asset Config sets the max size limit for image and videos to be uploaded in ques
 
 maxDepth defines the level of questionset i.e at which level question to be created. If maxDepth is set as 0, “Create New“ button get enabled to question at root node.
 
-![](<../../../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (6) (1).png>)
 
 Note: children at root node is to be defined which defines the type of question can be created at root node. Here is the default value **** to be used for children.
 
@@ -269,7 +275,7 @@ This defines the icon which comes in the node and levels, you can set your own i
 
 When showAddCollaborator is set it to true it enable the add collaborator option in questionset. With which creator can as select the collaborate to contribute to same questionset.
 
-![](<../../../.gitbook/assets/image (8).png>)
+![](<../../../.gitbook/assets/image (8) (1).png>)
 
 #### **questionSet.maxQuestionsLimit**
 
@@ -283,7 +289,7 @@ questionSet: {
 
 Suppose if "maxQuestionsLimit" is set to **“5“** then while trying to create new question it will give error maxlimit message as:
 
-![](<../../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (7) (1).png>)
 
 #### **contentPolicyUrl**
 
@@ -291,4 +297,4 @@ It defines where should the content policy link should be retirected.
 
 contentPolicyUrl: "/term-of-use.html" in diksha we are using this config as it redirects to (https://diksha.gov.in/term-of-use.html)
 
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (4) (1).png>)

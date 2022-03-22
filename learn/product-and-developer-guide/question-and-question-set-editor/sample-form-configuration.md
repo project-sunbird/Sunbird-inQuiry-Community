@@ -1,4 +1,10 @@
-# QuestionSet Form Configuration
+---
+description: >-
+  In this section we have covered the sample configuration of various types of
+  fields which can be configured in questionset.
+---
+
+# Sample Form Configuration
 
 ## &#x20;Field Configuration Properties:
 

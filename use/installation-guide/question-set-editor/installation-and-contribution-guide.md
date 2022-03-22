@@ -224,7 +224,7 @@ Note: You will need actual `API_AUTH_TOKEN` and `USER_TOKEN`
 
 If you are pointing to sunbird dev (`dev.sunbirded.org`), create a Question Set in sunbird dev, copy the questionset\_id from the browser url and set the do\_id of Question Set in `data.ts` file
 
-![](<../../../.gitbook/assets/image (9).png>)
+![](<../../../.gitbook/assets/image (9) (1).png>)
 
 ```
 export const questionSetEditorConfig = {

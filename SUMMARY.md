@@ -39,6 +39,10 @@
 * [Upgrade](use/upgrade.md)
 * [Release notes](use/release-notes.md)
 
+## INQUIRY RELEASE NOTES
+
+* [InQuiry - Release V 4.8.0](inquiry-release-notes/inquiry-release-v-4.8.0.md)
+
 ## ENGAGE
 
 * [Engage](engage/engage.md)

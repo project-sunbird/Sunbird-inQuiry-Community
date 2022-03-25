@@ -26,13 +26,13 @@
 ## Use
 
 * [Overview](use/overview.md)
-* [System requirements](use/system-requirements.md)
-* [Installation guide](use/installation-guide/README.md)
-  * [Question & Question set service](use/installation-guide/question-and-question-set-service/README.md)
+* [System Requirements](use/system-requirements.md)
+* [Installation Guide](use/installation-guide/README.md)
+  * [Question & Question Set Service](use/installation-guide/question-and-question-set-service/README.md)
     * [Server Installation](use/installation-guide/question-and-question-set-service/server-installation.md)
     * [Local Installation](use/installation-guide/question-and-question-set-service/local-installation.md)
     * [Configuration](use/installation-guide/question-and-question-set-service/configuration.md)
-  * [Question set Editor](use/installation-guide/question-set-editor/README.md)
+  * [Question Set Editor](use/installation-guide/question-set-editor/README.md)
     * [Installation and Contribution Guide](use/installation-guide/question-set-editor/installation-and-contribution-guide.md)
   * [Question set Player](use/installation-guide/question-set-player/README.md)
     * [Installation and Contribution Guide](use/installation-guide/question-set-player/installation-and-contribution-guide.md)

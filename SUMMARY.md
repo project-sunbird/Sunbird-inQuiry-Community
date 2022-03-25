@@ -8,7 +8,7 @@
 * [Product & Developer Guide](learn/product-and-developer-guide/README.md)
   * [Question & Question Set Editor](learn/product-and-developer-guide/question-and-question-set-editor/README.md)
     * [Source Code](learn/product-and-developer-guide/question-and-question-set-editor/source-code.md)
-    * [Question Set Configuration](learn/product-and-developer-guide/question-and-question-set-editor/question-set-configuration.md)
+    * [Question Set Editor Configuration](learn/product-and-developer-guide/question-and-question-set-editor/question-set-editor-configuration.md)
     * [Sample Form Configuration](learn/product-and-developer-guide/question-and-question-set-editor/sample-form-configuration.md)
     * [FAQ's](learn/product-and-developer-guide/question-and-question-set-editor/faqs.md)
   * [Question & Question Set Service](learn/product-and-developer-guide/question-and-question-set-service/README.md)

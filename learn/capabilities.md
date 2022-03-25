@@ -12,30 +12,29 @@ In this section, we will cover in a little detail about each of the key capabili
 
 Question set editor is a tool offered by inQuiry to help you kickstart your creation of **Question Banks**. The key capabilities of this editor are:
 
-* Extendible, Installable and configurable:&#x20;
-  * It provides a set of features and configurations. It is an npm package that can be installed and configured with ease.&#x20;
-  * Configuration driven: This allows you to unleash different capabilities for different workflows.&#x20;
+* Extendible, Embeddable and Configurable:&#x20;
+  * Configuration driven: The editor features are driven using a form and not hardcoded to the tool. This allows you to unleash different capabilities for different end-user workflows using the same editor.&#x20;
   * It is built using an angular tech stack and can be installed and used in any portal built using angular. It can also be extended to build native integrations with JS and React frameworks.
 * Create new questions or reuse already live questions to stitch a question set with proper metadata tagging.
 * Create question sets with multiple sections.&#x20;
-* Ability to define the consumption behaviour of the question set. For example:- show hint, solution, set timer, etc.
+* Ability to define the consumption behaviour of the question set. For example:- show hints, solution, set timer, etc.
 * Ability to preview question set to replicate the actual user experience before publishing it.
-* In-built curation workflows to ensure that only reviewed question sets are published.
+* In-built curation workflows to ensure that all questions are reviewed before they are made Live.
 
 ### **b) Question Editor**&#x20;
 
 Question editor enables you to create **diverse question types:**
 
 * The inQuiry comes with two pre-built question types:&#x20;
-  * **Multiple choice questions:** It is an interactive type of question having multiple options out of which one option is the correct answer.
+  * **Multiple choice questions:** It is an interactive type of question.&#x20;
 
 ![Multiple choice question](../.gitbook/assets/MCQ-Question.png)
 
-* **Subjective questions:** It is a non-interactive type of question that contains one answer.
+* **Subjective questions:** It is a non-interactive type of question.
 
 ![Subjective question](../.gitbook/assets/Subjective-Question.png)
 
-It can be extended to build other question types as per your need.
+It can easily be extended to build other question types as per your need.
 
 * Allows you to create questions with rich text, format text, images, and math equations amongst others with proper metadata tagging.
 
@@ -51,8 +50,8 @@ It enables the **End-to-end publishing process**. These are microservices that a
 
 Question set player is a player provided by inQuiry to create **engaging & inclusive experiences** for end users consuming the question sets. The key capabilities of this player are:&#x20;
 
-* Extendible, installable, and configurable:&#x20;
-  * It provides a set of features and configurations. It is an npm package that can be installed and configured with ease.&#x20;
+* Extendible, Embeddable, and Configurable:&#x20;
+  * It is built using plug-in based architecture thereby enabling you to extend and build new capabilities with ease.&#x20;
   * Configuration driven: This allows you to configure the player with different capabilities for different workflows. &#x20;
   * It can be plugged into any hybrid mobile app or can be played in web view. Can be extended to build native integrations with JS and React frameworks.
 * Inclusive:

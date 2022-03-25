@@ -2,36 +2,20 @@
 
 The components of inQuiry building block that enable the key capabilities outlined in the [overview](../../) and [capabilities](../capabilities.md) pages are:
 
-<details>
+{% content-ref url="question-and-question-set-editor/" %}
+[question-and-question-set-editor](question-and-question-set-editor/)
+{% endcontent-ref %}
 
-<summary><a href="question-and-question-set-service/">Question &#x26; Question Set Service</a></summary>
+{% content-ref url="question-and-question-set-service/" %}
+[question-and-question-set-service](question-and-question-set-service/)
+{% endcontent-ref %}
 
+{% content-ref url="question-set-player/" %}
+[question-set-player](question-set-player/)
+{% endcontent-ref %}
 
-
-</details>
-
-<details>
-
-<summary><a href="question-and-question-set-editor/">Question &#x26; Question Set Editor</a></summary>
-
-
-
-</details>
-
-<details>
-
-<summary><a href="question-set-player/">Question Set Player</a></summary>
-
-
-
-</details>
-
-<details>
-
-<summary><a href="analytics.md">Analytics</a></summary>
-
-
-
-</details>
+{% content-ref url="analytics.md" %}
+[analytics.md](analytics.md)
+{% endcontent-ref %}
 
 In the subsequent pages you will find detailed functional and technical documentation of these components.&#x20;

@@ -37,11 +37,9 @@
   * [Question set Player](use/installation-guide/question-set-player/README.md)
     * [Installation and Contribution Guide](use/installation-guide/question-set-player/installation-and-contribution-guide.md)
 * [Upgrade](use/upgrade.md)
-* [Release notes](use/release-notes.md)
-
-## INQUIRY RELEASE NOTES
-
-* [InQuiry - Release V 4.8.0](inquiry-release-notes/inquiry-release-v-4.8.0.md)
+* [Release notes](use/release-notes/README.md)
+  * [inQuiry - Release V 4.8.0 (Upcoming)](use/release-notes/inquiry-release-v-4.8.0-upcoming.md)
+  * [inQuiry - Release V 4.7.0 (Live)](use/release-notes/inquiry-release-v-4.7.0-live.md)
 
 ## ENGAGE
 

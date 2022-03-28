@@ -1,6 +1,6 @@
 # inQuiry - Release V 4.7.0 (Live)
 
-## inQuiry - Release V 4.7.0
+### Document Release Version
 
 | Project | Release Date  | Release Version |
 | ------- | ------------- | --------------- |

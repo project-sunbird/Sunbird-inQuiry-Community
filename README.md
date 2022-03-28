@@ -1,3 +1,7 @@
+### Please visit the community repository here https://github.com/Sunbird-inQuiry/Community
+
+---------------------
+
 # Overview
 
 ## _**What is Sunbird inQuiry?**_

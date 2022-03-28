@@ -15,8 +15,9 @@ Question set editor is a tool offered by inQuiry to help you kickstart your crea
 * Extendible, Embeddable and Configurable:&#x20;
   * Configuration driven: The editor features are driven using a form and not hardcoded to the tool. This allows you to unleash different capabilities for different end-user workflows using the same editor.&#x20;
   * It is built using an angular tech stack and can be installed and used in any portal built using angular. It can also be extended to build native integrations with JS and React frameworks.
+  * It is built using a plug-in architecture thereby enabling ease of extending the code to build new capabilities.
 * Create new questions or reuse already live questions to stitch a question set with proper metadata tagging.
-* Create question sets with multiple sections.&#x20;
+* Ability to create question sets with multiple sections.&#x20;
 * Ability to define the consumption behaviour of the question set. For example:- show hints, solution, set timer, etc.
 * Ability to preview question set to replicate the actual user experience before publishing it.
 * In-built curation workflows to ensure that all questions are reviewed before they are made Live.
@@ -26,17 +27,19 @@ Question set editor is a tool offered by inQuiry to help you kickstart your crea
 Question editor enables you to create **diverse question types:**
 
 * The inQuiry comes with two pre-built question types:&#x20;
-  * **Multiple choice questions:** It is an interactive type of question.&#x20;
+  * **Multiple choice questions** which are **** interactive type of question(s).&#x20;
 
 ![Multiple choice question](../.gitbook/assets/MCQ-Question.png)
 
-* **Subjective questions:** It is a non-interactive type of question.
+* **Subjective questions** which are non-interactive type of question(s) with pre-populated question & answers.
 
 ![Subjective question](../.gitbook/assets/Subjective-Question.png)
 
-It can easily be extended to build other question types as per your need.
+* Allows you to create questions with rich media, scientific formulae, math equations amongst others with proper metadata tagging.
 
-* Allows you to create questions with rich text, format text, images, and math equations amongst others with proper metadata tagging.
+![](<../.gitbook/assets/image (8).png>)
+
+### ****![](<../.gitbook/assets/image (10).png>)****
 
 ### **c) Question & Question Set services**&#x20;
 
@@ -44,7 +47,6 @@ It enables the **End-to-end publishing process**. These are microservices that a
 
 * Create, collaborate, curate & publish question(s) and question set(s).&#x20;
 * Easily scale as per your needs.
-* Unbundle the microservices to create different solutions using the same set of microservices.
 
 ### **d) Question Set Player (QuML player)**&#x20;
 
@@ -66,7 +68,7 @@ Question set player is a player provided by inQuiry to create **engaging & inclu
 
 ### **e) Analytics:**&#x20;
 
-Every single user interaction is instrumented as per the Sunbird telemetry spec. Therefore, allowing you to use this granular data to create custom reports to turn user actions into insights. Here are the events specific to inQuiry:
+Every single user interaction is instrumented as per the Sunbird telemetry spec. Therefore, enabling you to use this granular data to create custom reports to turn user actions into insights. Here are the events specific to inQuiry:
 
 * START - The start of a question/question set session.&#x20;
 * INTERACT - Captures the user interactions
@@ -87,7 +89,7 @@ Click [`here`](product-and-developer-guide/analytics.md) to check sample the tel
 
 inQuiry capabilities can power a variety of use-cases. A few examples are shown below:&#x20;
 
-![](<../.gitbook/assets/Screen Shot 2022-03-21 at 4.37.26 PM.png>)
+![inQuiry - Use Cases](<../.gitbook/assets/Screen Shot 2022-03-21 at 4.37.26 PM.png>)
 
 ### **Additional Information**
 

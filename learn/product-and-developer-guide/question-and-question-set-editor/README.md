@@ -21,7 +21,7 @@ Question set editor provides features to add images, mathematical formula, forma
 
 #### c) Ability to add and customize scientific and mathematical formulae in the question text.
 
-![](<../../../.gitbook/assets/image (8).png>)
+![](<../../../.gitbook/assets/image (8) (1).png>)
 
 #### d) Flexibility for creators to choose to render their questions in one of the three different layouts:&#x20;
 

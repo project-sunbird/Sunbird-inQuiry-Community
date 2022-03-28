@@ -4,7 +4,7 @@ description: >-
   questionset editor to enable and disable some functionalities.
 ---
 
-# Question Set Configuration
+# Question Set Editor Configuration
 
 Question Set Editor is an angular library built with Angular version 9, and it exports some modules and components.
 
@@ -203,7 +203,7 @@ In sourcingreview, we have “instructions”, so when the mode of editor is sou
 
 When **enableQuestionCreation: false** “Create New” button gets disabled
 
-![](<../../../.gitbook/assets/image (10) (1).png>)
+![](<../../../.gitbook/assets/image (10) (1) (1).png>)
 
 #### **assetConfig**
 
@@ -275,7 +275,7 @@ This defines the icon which comes in the node and levels, you can set your own i
 
 When showAddCollaborator is set it to true it enable the add collaborator option in questionset. With which creator can as select the collaborate to contribute to same questionset.
 
-![](<../../../.gitbook/assets/image (8) (1).png>)
+![](<../../../.gitbook/assets/image (8) (1) (1).png>)
 
 #### **questionSet.maxQuestionsLimit**
 
